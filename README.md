@@ -26,4 +26,4 @@ A complete database design and SQL practice project using **Microsoft SQL Server
 
 ---
 
-**Author:** Mahmoud (حودا)
+**Author:** Mahmoud Behiry
